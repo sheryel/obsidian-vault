@@ -9,4 +9,8 @@
 > an electron's weight is negligible
 
 
+%%
+[atomic theory](atomic%20theory.md)
+[Physics](Physics.md)
+%%
 

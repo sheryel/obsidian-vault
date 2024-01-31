@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "804a68bef86d720d",
+            "id": "e8d04a9a074caf5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silly notes X3/Ionic bonding.md",
+                "file": "silly notes X3/PEEL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -34,12 +34,25 @@
             }
           },
           {
-            "id": "030598126fa475e0",
+            "id": "f574d51b04385877",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silly notes X3/electronic configuration.md",
+                "file": "silly notes X3/OREO.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "003d60ce79cd5d51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "silly notes X3/IAE + Link.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -47,6 +60,7 @@
             }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -114,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "silly notes X3/Home.md",
+                "file": "silly notes X3/IAE + Link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "silly notes X3/Home.md"
+                "file": "silly notes X3/IAE + Link.md"
               }
             }
           },
@@ -185,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "silly notes X3/Home.md"
+                "file": "silly notes X3/IAE + Link.md"
               }
             }
           }
@@ -246,12 +260,15 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "3aeab9b45724bff5",
+  "active": "003d60ce79cd5d51",
   "lastOpenFiles": [
+    "silly notes X3/OREO.md",
+    "silly notes X3/IAE + Link.md",
+    "silly notes X3/PEEL.md",
+    "silly notes X3/Home.md",
     "silly notes X3/electronic configuration.md",
     "git",
     "silly notes X3/Ionic bonding.md",
-    "silly notes X3/Home.md",
     "Templates/Note title.md",
     "silly notes X3/The fight for citizenship.md",
     "silly notes X3/What does it mean to be stateless.md",
@@ -274,8 +291,6 @@
     "silly notes X3/Charge.md",
     "silly notes X3/Practical electricity.md",
     "silly notes X3/Sources of electricity.md",
-    "silly notes X3/Safety features.md",
-    "silly notes X3/Circuit breakers.md",
     "Media/earth leakage circuit breaker.png",
     "Media/mini circuit breaker.png",
     "Media/Looms/Untitled.loom",
