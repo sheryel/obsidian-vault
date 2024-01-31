@@ -1,0 +1,8 @@
+/* Align file extension labels to the right in sidebar */
+.nav-file-title-content {
+    flex-grow: 1;
+}
+
+.nav-folder-title-content {
+    flex-grow: 1;
+}

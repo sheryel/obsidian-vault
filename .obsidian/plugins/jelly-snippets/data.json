@@ -1,0 +1,8 @@
+{
+  "snippetsFile": "aside-show |+| <s class=\"aside-show\"></s>\n-==-\naside-hide |+| <s class=\"aside-hide\"></s>\n-==-\naside-in |+| <s class=\"aside-in\"></s>",
+  "triggerOnSpace": "y-ws",
+  "triggerOnEnter": "disabled",
+  "triggerOnTab": "n-ws",
+  "snippetPartDivider": " |+| ",
+  "snippetDivider": "-==-"
+}

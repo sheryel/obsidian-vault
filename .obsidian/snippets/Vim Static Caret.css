@@ -1,0 +1,11 @@
+.cm-fat-cursor .CodeMirror-cursor {
+  visibility: visible !important;
+}
+
+.cm-animate-fat-cursor {
+  animation: none;
+}
+
+div.CodeMirror-cursors, div.CodeMirror-dragcursors, div.CodeMirror-secondarycursor {
+  visibility: visible !important;
+}

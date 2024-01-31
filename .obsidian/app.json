@@ -1,0 +1,13 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "silly notes X3",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Media",
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "livePreview": false,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "showInlineTitle": true
+}

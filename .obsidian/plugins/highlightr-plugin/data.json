@@ -1,0 +1,14 @@
+{
+  "highlighterStyle": "lowlight",
+  "highlighterMethods": "inline-styles",
+  "highlighters": {
+    "Pink": "#FFB8EBA6",
+    "Cyan": "#ABF7F7A6",
+    "grey": "#00000042"
+  },
+  "highlighterOrder": [
+    "Pink",
+    "Cyan",
+    "grey"
+  ]
+}

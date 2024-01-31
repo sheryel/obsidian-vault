@@ -1,0 +1,27 @@
+
+/*for legacy editor*/
+.CodeMirror-activeline.CodeMirror-linebackground{
+  background-color: #9c338f40;
+  }
+  
+  
+  /*for live preview mode*/
+  .cm-active.cm-line{
+    background-color: #9c338f40;
+  }
+
+/* line on the left */
+
+.cm-active.cm-line::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 2px;
+  background-color: rgba(var(--interactive-accent-rgb), 0.3);
+}
+
+.cm-active.cm-line::before {
+  background-color: var(--interactive-accent);
+}

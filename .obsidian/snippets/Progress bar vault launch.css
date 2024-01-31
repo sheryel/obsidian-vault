@@ -1,0 +1,18 @@
+
+/* Vault launch progress bar change color */
+.progress-bar-subline {
+  position: absolute;
+  background-color: var(--base2);
+  height: 8px;
+}
+
+.progress-bar-line {
+  position: absolute;
+  opacity: 0.4;
+  background-color: var(--base2);
+  width: 150%;
+  height: 8px;
+}
+
+/* in `.theme` put: */
+--interactive-accent: var(--base2)

@@ -1,0 +1,1 @@
+A uni-directional bus transports data in one direction only

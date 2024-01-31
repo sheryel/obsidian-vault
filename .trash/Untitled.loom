@@ -1,0 +1,86 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "48775c3a-5512-49f4-96ca-cc43f9e3b2a5",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Homework",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "e73ea968-468b-4276-8e84-580669af71cf",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "file",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Subject",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "9b81c59c-8767-4756-9344-8c45534b7cb7",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-01-09T08:06:06.828Z",
+        "lastEditedDateTime": "2024-01-09T08:06:06.828Z",
+        "cells": [
+          {
+            "id": "e8bbf35a-184d-4ffa-8039-46f57764ada9",
+            "columnId": "48775c3a-5512-49f4-96ca-cc43f9e3b2a5",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "15807993-31de-4940-a944-4992e6d6e5a5",
+            "columnId": "e73ea968-468b-4276-8e84-580669af71cf",
+            "path": "",
+            "alias": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.15.11"
+}
