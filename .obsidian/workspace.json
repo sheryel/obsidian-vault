@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "e8d04a9a074caf5d",
+            "id": "5c7ebcb2219e13a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silly notes X3/PEEL.md",
+                "file": "silly notes X3/electronic configuration.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -34,12 +34,64 @@
             }
           },
           {
-            "id": "003d60ce79cd5d51",
+            "id": "e02163034899600c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silly notes X3/IAE + Link.md",
+                "file": "silly notes X3/protons.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3acec28104f0e5aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "silly notes X3/neutrons.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2b47bff35a5ad86e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "silly notes X3/Ions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7769328bbc6c4a74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "silly notes X3/molecules.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0f59976dd951365c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "silly notes X3/electrons.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -47,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -115,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "silly notes X3/IAE + Link.md",
+                "file": "silly notes X3/Ions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "silly notes X3/IAE + Link.md"
+                "file": "silly notes X3/Ions.md"
               }
             }
           },
@@ -186,7 +238,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "silly notes X3/IAE + Link.md"
+                "file": "silly notes X3/Ions.md"
               }
             }
           }
@@ -247,13 +299,21 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "003d60ce79cd5d51",
+  "active": "2b47bff35a5ad86e",
   "lastOpenFiles": [
-    "silly notes X3/OREO.md",
-    "silly notes X3/IAE + Link.md",
-    "silly notes X3/PEEL.md",
-    "silly notes X3/Home.md",
+    "silly notes X3/atoms.md",
     "silly notes X3/electronic configuration.md",
+    "silly notes X3/protons.md",
+    "silly notes X3/neutrons.md",
+    "silly notes X3/atomic theory.md",
+    "silly notes X3/Ions.md",
+    "silly notes X3/electrons.md",
+    "silly notes X3/molecules.md",
+    "silly notes X3/isotopes.md",
+    "silly notes X3/Home.md",
+    "silly notes X3/PEEL.md",
+    "silly notes X3/IAE + Link.md",
+    "silly notes X3/OREO.md",
     "git",
     "silly notes X3/Ionic bonding.md",
     "Templates/Note title.md",
@@ -269,15 +329,7 @@
     "silly notes X3/Statelessness.md",
     "silly notes X3/Formulas.md",
     "silly notes X3/environment.md",
-    "silly notes X3/types of environments.md",
-    "silly notes X3/Geography.md",
     "Media/Canvas/the environment as a system.canvas",
-    "silly notes X3/potential difference and electromotive force.md",
-    "silly notes X3/physical attribute.md",
-    "silly notes X3/about the mole.md",
-    "silly notes X3/Charge.md",
-    "silly notes X3/Practical electricity.md",
-    "silly notes X3/Sources of electricity.md",
     "Media/earth leakage circuit breaker.png",
     "Media/mini circuit breaker.png",
     "Media/Looms/Untitled.loom",

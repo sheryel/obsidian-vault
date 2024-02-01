@@ -1,3 +1,5 @@
+# what are isotopes?
+Isotopes are atoms of the same element that have the same number of protons and electrons but different number of neutrons.
 # naturally occurring isotopes
 ![[Excalidraw/isotopes.excalidraw|isotopes.excalidraw]]
 [[silly notes X3/relative atomic mass|relative atomic mass]] = $\frac{95.15}{100} \times 7 + \frac{4.85}{100} \times 6 = 6.95$

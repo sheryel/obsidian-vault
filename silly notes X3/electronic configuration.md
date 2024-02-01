@@ -1,8 +1,8 @@
-| particle  | charge | weight         |
-| --------- | ------ | -------------- |
-| protons   | +1     | 1              |
-| neutrons  | 0      | 1              |
-| electrons | -1     | \frac{1}{1870} |
+| particle                  | charge | weight         |
+| ------------------------- | ------ | -------------- |
+| [protons](protons.md)     | +1     | 1              |
+| [neutrons](neutrons.md)   | 0      | 1              |
+| [electrons](electrons.md) | -1     | \frac{1}{1870} |
 
 
 > [!tip] Tip
